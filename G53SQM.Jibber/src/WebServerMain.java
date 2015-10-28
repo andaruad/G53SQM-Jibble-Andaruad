@@ -45,7 +45,7 @@ public class WebServerMain {
             server.activate();
         }
         catch (WebServerException e) {
-            System.out.println(e.toString());
+            System.out.println(e.toString());//Print (e.toString())
         }
     }
 
