@@ -47,7 +47,7 @@ public class WebServerMain {
         }
         catch (WebServerException e) {
             System.out.println("Jibble web server (modified by Andaru Adiwignya StudentID:013611) "
-            		+ "Root Directory: /Users/andaruad/git/Jibble/Jibble/webfiles Port: 8088");
+            		+ "Root Directory: Users/andaruad/git/G53SQM.Jibber/G53SQM.Jibber/webfiles Port: 8088");
         	System.out.println(e.toString());//Print (e.toString())
         }
     }
